@@ -1,0 +1,12 @@
+# Contains tasks for which loop analysis is necessary.
+loops/*.yml
+loop-acceleration/*.yml
+loop-crafted/*.yml
+loop-invgen/*.yml
+loop-lit/*.yml
+loop-new/*.yml
+loop-industry-pattern/*.yml
+loop-invariants/*.yml
+loop-simple/*.yml
+loop-zilu/*.yml
+nla-digbench/*.yml

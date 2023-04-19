@@ -1,0 +1,7 @@
+# Contains tasks for which recursive analysis is necessary.
+# p
+recursive/*.yml
+recursive-simple/*.yml
+recursive-with-pointer/*.yml
+ntdrivers-simplified/*.yml
+openssl-simplified/*.yml
